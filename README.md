@@ -16,4 +16,4 @@ The Su-27SK can be found at https://github.com/ShFsn/SU-27SK
 Discord: https://discord.gg/f5ZVjB5fXx
 
 
-==================================CREDITS=====================================
+=====================================CREDITS===================================
