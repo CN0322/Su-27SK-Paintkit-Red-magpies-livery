@@ -11,7 +11,7 @@ To install the livery, simply the files in the redmagpies folder and put it into
 
 The Su-27SK can be found at https://github.com/ShFsn/SU-27SK
 
-===================================FGAU===================================
+====================================FGAU====================================
 
 Discord: https://discord.gg/f5ZVjB5fXx
 
